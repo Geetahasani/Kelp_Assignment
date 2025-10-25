@@ -1,0 +1,241 @@
+{
+  "success": true,
+  "message": "CSV parsed successfully",
+  "totalRecords": 13,
+  "records": [
+    {
+      "name": {
+        "firstName": "Rohit",
+        "lastName": "Prasad"
+      },
+      "age": 35,
+      "address": {
+        "line1": "A-563 Rakshak Society",
+        "line2": "New Pune Road",
+        "city": "Pune",
+        "state": "Maharashtra"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "Kelp",
+        "title": "Software Engineer"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Priya",
+        "lastName": "Singh"
+      },
+      "age": 28,
+      "address": {
+        "line1": "B-32 Green Valley",
+        "line2": "Main Street",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      },
+      "gender": "female",
+      "employment": {
+        "company": "TechCorp",
+        "title": "Data Analyst"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Aarav",
+        "lastName": "Sharma"
+      },
+      "age": 18,
+      "address": {
+        "line1": "101 Sky Apartments",
+        "line2": "MG Road",
+        "city": "Bangalore",
+        "state": "Karnataka"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "Student",
+        "title": "N/A"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Suresh",
+        "lastName": "Patel"
+      },
+      "age": 52,
+      "address": {
+        "line1": "Plot 45",
+        "line2": "Sector 12",
+        "city": "Gandhinagar",
+        "state": "Gujarat"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "PharmaCo",
+        "title": "Senior Manager"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Anjali",
+        "lastName": "Desai"
+      },
+      "age": 67,
+      "address": {
+        "line1": "789 Old Quarter",
+        "line2": "River Road",
+        "city": "Kolkata",
+        "state": "West Bengal"
+      },
+      "gender": "female",
+      "employment": {
+        "company": "Retired",
+        "title": "N/A"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Vikram",
+        "lastName": "Rao"
+      },
+      "age": 20,
+      "address": {
+        "line1": "C-100 Sun City",
+        "line2": "Link Road",
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "DataSolutions",
+        "title": "Intern"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Sunita",
+        "lastName": "Gupta"
+      },
+      "age": 40,
+      "address": {
+        "line1": "D-404 Lakeview",
+        "line2": "Hilltop",
+        "city": "Delhi",
+        "state": "Delhi"
+      },
+      "gender": "female",
+      "employment": {
+        "company": "HealthWell",
+        "title": "Doctor"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Meena",
+        "lastName": "Kumar"
+      },
+      "age": 41,
+      "address": {
+        "line1": "Flat 12B",
+        "line2": "Park Avenue",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+      },
+      "gender": "female",
+      "employment": {
+        "company": "EduFuture",
+        "title": "Professor"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Rajesh",
+        "lastName": "Verma"
+      },
+      "age": 60,
+      "address": {
+        "line1": "E-505 Royal Palms",
+        "line2": "Beach Road",
+        "city": "Goa",
+        "state": "Goa"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "Self-Employed",
+        "title": "Consultant"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Kavita",
+        "lastName": "Iyer"
+      },
+      "age": 31,
+      "address": {
+        "line1": "F-606",
+        "line2": "Galaxy Heights",
+        "city": "",
+        "state": "Mumbai"
+      },
+      "gender": "Maharashtra",
+      "employment": {
+        "company": "female",
+        "title": "Freelancer"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Amit",
+        "lastName": "Jain"
+      },
+      "age": 19,
+      "address": {
+        "line1": "Hostel Block 5",
+        "line2": "University Campus",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "Student",
+        "title": "N/A"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Deepa",
+        "lastName": "Murthy"
+      },
+      "age": 48,
+      "address": {
+        "line1": "G-707",
+        "line2": "Orchid Complex",
+        "city": "Mysore",
+        "state": "Karnataka"
+      },
+      "gender": "female",
+      "employment": {
+        "company": "InfoSys",
+        "title": "Project Manager"
+      }
+    },
+    {
+      "name": {
+        "firstName": "Ravi",
+        "lastName": "Biswas"
+      },
+      "age": 62,
+      "address": {
+        "line1": "H-808",
+        "line2": "Ganga Vihar",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+      },
+      "gender": "male",
+      "employment": {
+        "company": "Retired",
+        "title": "N/A"
+      }
+    }
+  ]
+}
