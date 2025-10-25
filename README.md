@@ -39,7 +39,12 @@ By default the sample env sets `PORT=3000`. The app mounts CSV routes at `/api/c
 Two simple endpoints are exposed by the service (mounted under `/api/csv`):
 
 - GET /api/csv/preview — Parse the CSV (from the path in `CSV_FILE_PATH`) and return parsed records as JSON without writing to the DB.
+<img width="814" height="778" alt="Screenshot 2025-10-26 at 2 43 52 AM" src="https://github.com/user-attachments/assets/de290fa6-570e-43a5-bef4-f3498600d006" />
+
+  
 - POST /api/csv/upload — Parse the CSV and bulk-insert user records into the DB, then return a simple age-distribution report.
+  <img width="814" height="575" alt="Screenshot 2025-10-26 at 2 42 36 AM" src="https://github.com/user-attachments/assets/7c233d00-0ce0-4629-b747-5f1ca29875c5" />
+
 
 See `docs/API.md` for full examples and sample responses.
 
